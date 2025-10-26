@@ -10,3 +10,5 @@ This dashboard analyzes the key drivers of national happiness based on the 2024 
 
 3.  Health is Critical:
     The "Life Expectancy vs. Happiness" chart shows an even stronger positive relationship. This confirms that a healthy, long-living population is a critical component of national well-being.
+
+    https://public.tableau.com/app/profile/sibusiso.ndlovu/viz/GLOBALHAPPINESSANALYSIS2024/Dashboard1
